@@ -4,6 +4,5 @@
   <p>Soy Paula</p>
   <p>Seguimos aprendiendo devops </p>
   <p>Añadimos para pipeline</p>
-  <p>Prueba</p>
 </body>
 </html>
